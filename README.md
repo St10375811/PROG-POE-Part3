@@ -17,11 +17,12 @@ Setup Instructions:
 
 
 Navigate to the project directory.
-Double-click on the solution file (YourSolutionName.sln) to open it in Visual Studio.
+Double-click on the solution file (PROG-POE-Part3.sln) to open it in Visual Studio.
 Restore NuGet packages:
 
 Right-click on the solution in Solution Explorer.
 Select Restore NuGet Packages.
+
 Build the solution:
 
 Press Ctrl+Shift+B or navigate to Build > Build Solution.
@@ -37,6 +38,8 @@ Usage
 
 Features
 [List key features or functionalities of your application.]
+You can add recipe name 
+
 Structure
 /Assets: Contains graphical assets used in the application.
 /ViewModels: Contains view models if using MVVM architecture.
